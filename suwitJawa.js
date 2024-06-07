@@ -51,7 +51,7 @@
 var tanya = true;
 while (tanya) {
   // Menangkap pilihan player
-  var p = prompt("pilih : gajah, semut, atau orang!");
+  var p = prompt("pilih : gajah, semut, atau orang!\n( huruf kecil semua )");
 
   // menangkap pilihan computer
   // membangkitkan angka random
